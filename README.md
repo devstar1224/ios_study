@@ -4,10 +4,10 @@
 IDE : Xcode 12.1
 Lang : Swift
 
-## 참고 자료
+## 📑 참고 자료
 - [센치한 개발자](https://www.youtube.com/c/센치한개발자/videos) - 첫 입문 영상.
 
-## 기록
+## 🎞 기록
 **2020.12.19**
 
 - commit [@73a361b](https://github.com/devstar1224/ios_study/tree/73a361bdc63b72753e336e6ff578a8ea2f072740)
